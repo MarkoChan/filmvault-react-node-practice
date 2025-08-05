@@ -1,0 +1,21 @@
+# Film Vault
+
+A simple React website that uses the [TMDb API](https://www.themoviedb.org/documentation/api) to search and display movie information. Built with [Vite](https://vitejs.dev/) for fast development and hot module replacement.
+
+## Features
+
+- Search for movies using the TMDb API
+- View movie posters, titles, and overviews
+- Built using React + Vite
+- Responsive UI
+
+## Attribution
+
+This product uses the TMDb API but is not endorsed or certified by TMDb.  
+Movie data and images © [TMDb](https://www.themoviedb.org/).
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
