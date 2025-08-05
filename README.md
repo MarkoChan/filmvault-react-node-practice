@@ -17,5 +17,10 @@ Movie data and images © [TMDb](https://www.themoviedb.org/).
 ## Getting Started
 
 ```bash
+for client/frontend:
 npm install
 npm run dev
+for server/backend:
+insert api key into .env file
+npm install
+node server.js
