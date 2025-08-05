@@ -17,10 +17,16 @@ Movie data and images © [TMDb](https://www.themoviedb.org/).
 ## Getting Started
 
 ```bash
-for client/frontend:
+git clone https://github.com/MarkoChan/filmvault-react-node-practice.git
+cd filmvault-react-node-practice
+
+cd filmvault-frontend
 npm install
 npm run dev
-for server/backend:
-insert api key into .env file
+
+cd ../filmvault-backend
+# Create a .env file and add your TMDb API key
+echo "TMDB_API_KEY=your_api_key_here" > .env
+
 npm install
 node server.js
