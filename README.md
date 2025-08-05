@@ -6,7 +6,7 @@ A simple React website that uses the [TMDb API](https://www.themoviedb.org/docum
 
 - Search for movies using the TMDb API
 - View movie posters, titles, and overviews
-- Built using React + Vite
+- Built using React (frontend) + Express (backend)
 - Responsive UI
 
 ## Attribution
